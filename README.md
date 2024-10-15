@@ -23,6 +23,7 @@ Managing duplicate files can be a tedious and time-consuming task, especially wh
    cd your-repo-name
 
 2. Run the Python script:
+     ```bash  
      py filterDupFiles.py  
 
 3. When prompted, enter the path to the folder containing your files. The script will create the necessary directories (originals, duplicates, and non-duplicates) in the current directory.
